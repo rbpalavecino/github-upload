@@ -1,0 +1,13 @@
+C:\Users\Raul\source\repos\PracticaDLLs\PracticaDLLs\bin\Debug\PracticaDLLs.exe.config
+C:\Users\Raul\source\repos\PracticaDLLs\PracticaDLLs\bin\Debug\PracticaDLLs.exe
+C:\Users\Raul\source\repos\PracticaDLLs\PracticaDLLs\bin\Debug\PracticaDLLs.pdb
+C:\Users\Raul\source\repos\PracticaDLLs\PracticaDLLs\bin\Debug\ScannerA.dll
+C:\Users\Raul\source\repos\PracticaDLLs\PracticaDLLs\bin\Debug\ScannerA.pdb
+C:\Users\Raul\source\repos\PracticaDLLs\PracticaDLLs\obj\Debug\PracticaDLLs.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\PracticaDLLs\PracticaDLLs\obj\Debug\PracticaDLLs.Form1.resources
+C:\Users\Raul\source\repos\PracticaDLLs\PracticaDLLs\obj\Debug\PracticaDLLs.Properties.Resources.resources
+C:\Users\Raul\source\repos\PracticaDLLs\PracticaDLLs\obj\Debug\PracticaDLLs.csproj.GenerateResource.cache
+C:\Users\Raul\source\repos\PracticaDLLs\PracticaDLLs\obj\Debug\PracticaDLLs.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\PracticaDLLs\PracticaDLLs\obj\Debug\PracticaDLLs.csproj.CopyComplete
+C:\Users\Raul\source\repos\PracticaDLLs\PracticaDLLs\obj\Debug\PracticaDLLs.exe
+C:\Users\Raul\source\repos\PracticaDLLs\PracticaDLLs\obj\Debug\PracticaDLLs.pdb

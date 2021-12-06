@@ -1,0 +1,9 @@
+C:\Users\Raul\source\repos\PracticaDLLs\Scanner\bin\Debug\Scanner.dll
+C:\Users\Raul\source\repos\PracticaDLLs\Scanner\bin\Debug\Scanner.pdb
+C:\Users\Raul\source\repos\PracticaDLLs\Scanner\obj\Debug\BNAScanner.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\PracticaDLLs\Scanner\obj\Debug\Scanner.dll
+C:\Users\Raul\source\repos\PracticaDLLs\Scanner\obj\Debug\Scanner.pdb
+C:\Users\Raul\source\repos\PracticaDLLs\Scanner\bin\Debug\ScannerB.dll
+C:\Users\Raul\source\repos\PracticaDLLs\Scanner\bin\Debug\ScannerB.pdb
+C:\Users\Raul\source\repos\PracticaDLLs\Scanner\obj\Debug\BNAScanner.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\PracticaDLLs\Scanner\obj\Debug\BNAScanner.csproj.CopyComplete

@@ -1,0 +1,5 @@
+C:\Users\Raul\source\repos\PracticaDLLs\ScannerB\bin\Debug\ScannerB.dll
+C:\Users\Raul\source\repos\PracticaDLLs\ScannerB\bin\Debug\ScannerB.pdb
+C:\Users\Raul\source\repos\PracticaDLLs\ScannerB\obj\Debug\ScannerB.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\PracticaDLLs\ScannerB\obj\Debug\ScannerB.dll
+C:\Users\Raul\source\repos\PracticaDLLs\ScannerB\obj\Debug\ScannerB.pdb
